@@ -27,6 +27,7 @@ Documentation of rooms completed and concepts learned on the TryHackMe platform.
   - **Security Engineering:** Building and maintaining secure infrastructure.
   - **Penetration Testing:** Authorized simulated attacks to find vulnerabilities (Red Team).
 - **Date:** 4 May 2026
+- **Badge: https://tryhackme.com/anjanapriya2005/badges/3-day-streak?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69f5df19a5c978b27fb1c6d6
 
 ### 🌐 What is Networking? (Day 4)
 - **Category:** Network Fundamentals
