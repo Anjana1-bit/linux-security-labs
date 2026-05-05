@@ -29,6 +29,8 @@ A centralized repository tracking my progress in Linux fundamentals, network sec
 ### Day 3: May 4, 2026
 - **Focus:** Cybersecurity Career Paths.
 - **Task:** Explored the differences between Security Engineering and Pentesting.
+- **Badge:** https://tryhackme.com/anjanapriya2005/badges/3-day-streak?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=69f5df19a5c978b27fb1c6d6
+
 
 ### Day 4: May 5, 2026
 - **Focus:** Networking & Device Identification.
