@@ -25,3 +25,11 @@ A centralized repository tracking my progress in Linux fundamentals, network sec
 ### Day 2: May 3, 2026(THM)
 - **Focus:** Defensive Security & Incident Response.
 - **Task:** Learned the fundamentals of SOC monitoring and digital forensics.
+
+### Day 3: May 4, 2026
+- **Focus:** Cybersecurity Career Paths.
+- **Task:** Explored the differences between Security Engineering and Pentesting.
+
+### Day 4: May 5, 2026
+- **Focus:** Networking & Device Identification.
+- **Task:** Mastered the difference between IP/MAC addresses and performed a MAC Spoofing simulation.
