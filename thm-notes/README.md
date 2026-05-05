@@ -19,9 +19,6 @@ Documentation of rooms completed and concepts learned on the TryHackMe platform.
   - **Digital Forensics:** The process of investigating logs and system artifacts to identify the scope of an attack.
   - **Incident Response:** The practical steps of identifying, isolating, and remediating a security breach.
 - **Date:** 3 May 2026
-# 🏅 TryHackMe Progress
-
-## 📍 Completed Rooms
 
 ### 🏁 Careers in Cyber (Day 3)
 - **Category:** Introduction / Career Pathing
